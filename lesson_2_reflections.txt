@@ -15,8 +15,12 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    Branches help when I want to follow and implement separate ideas simultaneously. I can experiment in one 
+    branch, whlie working with the "serious" code in the other. It also helps when I want to break the project in 
+    many variations, like a text document in many different languages for instance.
 
 How do the diagrams help you visualize the branch structure?
+    They help me undestand the structure and the history of each of my steps. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
