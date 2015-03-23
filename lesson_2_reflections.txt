@@ -30,6 +30,10 @@ the diagram the way we do?
     its "parent" commit. Here comes "git show commitID" handy, because git finds and shows automatically the diff between 
     this commit and its parent (we don't have to find the parent in the git log list).
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+    Automatic merging helps saving time when circumstances allow it. Normally this is the case. In other case one 
+    should merge maually when circumstances allow it. Normally this is the case. In other case one 
+    should merge maually.
+
 
