@@ -24,6 +24,11 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+    Merging results to having all changes done in the different branches back in one branch. 
+    The commits of the different branches interleave each other in the merged branch, and they are
+    all sorted per timestam (newest at first). That means that now a commit isn't allways followed by 
+    its "parent" commit. Here comes "git show commitID" handy, because git finds and shows automatically the diff between 
+    this commit and its parent (we don't have to find the parent in the git log list).
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
