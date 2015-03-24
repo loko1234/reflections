@@ -8,12 +8,15 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    It makes sense to pull changes from a remote when ever one decides that these changes 
+    are constructive and not destructive. Automatical updates could create chaos.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forking: Cloning a persons repository within Github servers to my account. Then doing changes without affecting his original repository.
+    Cloning: Copying a repository local to local, or remote to local
+    Branches:  Having multiple paths and making changes in them without affecting each other, or the master path. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
